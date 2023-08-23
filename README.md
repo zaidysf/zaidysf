@@ -1,5 +1,7 @@
 Hello there 👋
 
-Here are my previous years contributions in another organizations
-![LIMAINDONESIA - 2023](https://github.com/zaidysf/zaidysf/assets/5093672/27c4cd56-5ad2-43f8-adf2-a4663b7591d8)
-![LIMAINDONESIA - 2022](https://github.com/zaidysf/zaidysf/assets/5093672/27979d13-44a8-4851-914e-5a84fa7dc83b)
+Here are my previous years contributions and achievements in another organizations
+
+<img width="400" alt="image" src="https://github.com/zaidysf/zaidysf/assets/5093672/4fc5ee1d-5f2f-4ef0-b028-fb8904655432">
+<img width="400" alt="image" src="https://github.com/zaidysf/zaidysf/assets/5093672/503cd995-6676-45de-9a69-ae806fe4c279">
+<img width="800" alt="image" src="https://github.com/zaidysf/zaidysf/assets/5093672/33ea808d-0f2e-4b55-9e67-7dfebabe8cc6">
