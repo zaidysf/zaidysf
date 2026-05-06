@@ -6,6 +6,7 @@ Jakarta, Indonesia
 [![Website](https://img.shields.io/badge/uncle--z.com-1A1A1A?style=flat-square&logo=googlechrome&logoColor=white)](https://uncle-z.com)
 [![Email](https://img.shields.io/badge/hello%40uncle--z.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@uncle-z.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zaidysf-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidysf)
+[![LinkedIn](https://img.shields.io/badge/paypal-donate-blue?logo=paypal&style=flat-square)](https://paypal.me/unclezstudio)
 
 ---
 
